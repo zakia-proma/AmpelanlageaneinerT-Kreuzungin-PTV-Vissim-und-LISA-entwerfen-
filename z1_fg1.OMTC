@@ -1,0 +1,19 @@
+<LisaConfig>
+	<BTSettings>104;156,156,350,359;4;60000;1;0;1;;0;1;2;-1;1;0;0;0</BTSettings>
+	<OMTCServerMode>0</OMTCServerMode>
+	<Zentrale>
+		<UseZentrale>false</UseZentrale>
+		<ZentraleZNr>0</ZentraleZNr>
+		<ZentraleFNr>0</ZentraleFNr>
+	</Zentrale>
+	<SignalControl>
+		<SCNr>1</SCNr>
+		<ZNr>1</ZNr>
+		<FNr>1</FNr>
+		<RelKnoten>0</RelKnoten>
+		<OMTCServerIP>localhost</OMTCServerIP>
+		<OMTCServerPort>9081</OMTCServerPort>
+		<JavaMaxHeapSize>0</JavaMaxHeapSize>
+		<OMTCServer></OMTCServer>
+	</SignalControl>
+</LisaConfig>
